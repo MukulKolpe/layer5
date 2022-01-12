@@ -35,7 +35,7 @@
     "dedent": "^0.7.0",
     "eslint": "^7.23.0",
     "formik": "^2.2.9",
-    "gatsby": "^3.2.1",
+    "gatsby": "^4.5.0",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-cli": "^3.3.0",
     "gatsby-plugin-anchor-links": "^1.1.0",
