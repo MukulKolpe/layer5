@@ -56,7 +56,7 @@
     "gatsby-plugin-robots-txt": "^1.7.0",
     "gatsby-plugin-sharp": "^4.19.0",
     "gatsby-plugin-sitemap": "^5.19.0",
-    "gatsby-plugin-styled-components": "^5.19.0",
+    "gatsby-plugin-styled-components": "^5.22.0",
     "gatsby-redirect-from": "^0.5.0",
     "gatsby-source-filesystem": "^4.19.0",
     "gatsby-transformer-sharp": "^4.19.0",
